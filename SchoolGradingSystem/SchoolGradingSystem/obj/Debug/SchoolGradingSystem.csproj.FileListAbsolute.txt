@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\SchoolGradingSystem\SchoolGradingSystem\bin\Debug\SchoolGradingSystem.exe.config
+C:\Users\USER\source\repos\SchoolGradingSystem\SchoolGradingSystem\bin\Debug\SchoolGradingSystem.exe
+C:\Users\USER\source\repos\SchoolGradingSystem\SchoolGradingSystem\bin\Debug\SchoolGradingSystem.pdb
+C:\Users\USER\source\repos\SchoolGradingSystem\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SchoolGradingSystem\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SchoolGradingSystem\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.exe
+C:\Users\USER\source\repos\SchoolGradingSystem\SchoolGradingSystem\obj\Debug\SchoolGradingSystem.pdb
